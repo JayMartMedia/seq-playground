@@ -1,1 +1,6 @@
+# Node.js items to ignore
 node_modules
+
+#.NET items to ignore
+bin
+obj
